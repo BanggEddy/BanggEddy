@@ -8,9 +8,6 @@ Hi 👋, I'm David LI<br><br>ฅʕ•ᴥ•`ʔ David Li | 💻 Student Full-stac
 ![](https://github-readme-stats.vercel.app/api?username=BanggEddy&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BanggEddy&theme=dark&hide_border=false)<br/>
 
-### ✍️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=BanggEddy&icon=6&color=0)](https://visitcount.itsvg.in)
 
